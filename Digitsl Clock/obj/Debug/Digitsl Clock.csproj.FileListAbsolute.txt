@@ -1,0 +1,11 @@
+C:\Users\aflax\source\repos\Digitsl Clock\Digitsl Clock\bin\Debug\Digitsl Clock.exe.config
+C:\Users\aflax\source\repos\Digitsl Clock\Digitsl Clock\bin\Debug\Digitsl Clock.exe
+C:\Users\aflax\source\repos\Digitsl Clock\Digitsl Clock\bin\Debug\Digitsl Clock.pdb
+C:\Users\aflax\source\repos\Digitsl Clock\Digitsl Clock\obj\Debug\Digitsl Clock.csproj.AssemblyReference.cache
+C:\Users\aflax\source\repos\Digitsl Clock\Digitsl Clock\obj\Debug\Digitsl Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\aflax\source\repos\Digitsl Clock\Digitsl Clock\obj\Debug\Digitsl_Clock.Properties.Resources.resources
+C:\Users\aflax\source\repos\Digitsl Clock\Digitsl Clock\obj\Debug\Digitsl Clock.csproj.GenerateResource.cache
+C:\Users\aflax\source\repos\Digitsl Clock\Digitsl Clock\obj\Debug\Digitsl Clock.csproj.CoreCompileInputs.cache
+C:\Users\aflax\source\repos\Digitsl Clock\Digitsl Clock\obj\Debug\Digitsl Clock.exe
+C:\Users\aflax\source\repos\Digitsl Clock\Digitsl Clock\obj\Debug\Digitsl Clock.pdb
+C:\Users\aflax\source\repos\Digitsl Clock\Digitsl Clock\obj\Debug\Digitsl_Clock.display.resources
